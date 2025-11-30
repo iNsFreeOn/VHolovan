@@ -1,0 +1,26 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/I512600Kf-RTX3060/Documents/GitHub/VHolovan/Homework10/Content/StarterContent/Audio/Collapse01.uasset",
+				"C:/Users/I512600Kf-RTX3060/Documents/GitHub/VHolovan/Homework10/Content/Homework10/BB_Patrol.uasset",
+				"C:/Users/I512600Kf-RTX3060/Documents/GitHub/VHolovan/Homework10/Content/Homework10/BP_PatrolBot.uasset",
+				"C:/Users/I512600Kf-RTX3060/Documents/GitHub/VHolovan/Homework10/Content/Homework10/BP_Patrol_Aicontroller.uasset",
+				"C:/Users/I512600Kf-RTX3060/Documents/GitHub/VHolovan/Homework10/Content/Homework10/BT_Patrol.uasset",
+				"C:/Users/I512600Kf-RTX3060/Documents/GitHub/VHolovan/Homework10/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/7D/FPCGQ4OWPCOHEZ18HOADU6.uasset",
+				"C:/Users/I512600Kf-RTX3060/Documents/GitHub/VHolovan/Homework10/Content/ThirdPerson/Blueprints/BP_ThirdPersonGameMode.uasset",
+				"C:/Users/I512600Kf-RTX3060/Documents/GitHub/VHolovan/Homework10/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/F6/KELSAVOHA5DV21Z2A01YUP.uasset",
+				"C:/Users/I512600Kf-RTX3060/Documents/GitHub/VHolovan/Homework10/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/R3/58QAR0F6ZR6BUG5FHU053Q.uasset",
+				"C:/Users/I512600Kf-RTX3060/Documents/GitHub/VHolovan/Homework10/Content/Homework10/BTTask_SearchForRandomPoint.uasset",
+				"C:/Users/I512600Kf-RTX3060/Documents/GitHub/VHolovan/Homework10/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/IR/OTJMGDDXDV5TI7982YKZ5P.uasset",
+				"C:/Users/I512600Kf-RTX3060/Documents/GitHub/VHolovan/Homework10/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/7E/BEYC27T14FHBU6LF2F60RR.uasset",
+				"C:/Users/I512600Kf-RTX3060/Documents/GitHub/VHolovan/Homework10/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/HL/XWFFRCIJ8QK4NRO30ALA6J.uasset",
+				"C:/Users/I512600Kf-RTX3060/Documents/GitHub/VHolovan/Homework10/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/8O/GK06JAEJ82TQ0GA2QB0DJG.uasset",
+				"C:/Users/I512600Kf-RTX3060/Documents/GitHub/VHolovan/Homework10/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/3/MO/LWVT4WSAQKZK39R2J3XPJE.uasset"
+			]
+		}
+	]
+}
