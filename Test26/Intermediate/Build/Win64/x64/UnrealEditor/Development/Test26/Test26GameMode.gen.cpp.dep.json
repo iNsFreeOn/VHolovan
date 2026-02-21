@@ -1,0 +1,19 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\i512600kf-rtx3060\\documents\\github\\vholovan\\test26\\intermediate\\build\\win64\\unrealeditor\\inc\\test26\\uht\\test26gamemode.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\i512600kf-rtx3060\\documents\\github\\vholovan\\test26\\intermediate\\build\\win64\\x64\\test26editor\\development\\engine\\sharedpch.engine.cpp20.h.pch",
+        "Includes": [
+            "c:\\users\\i512600kf-rtx3060\\documents\\github\\vholovan\\test26\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\test26\\definitions.test26.h",
+            "c:\\users\\i512600kf-rtx3060\\documents\\github\\vholovan\\test26\\source\\test26\\test26gamemode.h",
+            "d:\\genshi\\ue_5.3\\engine\\source\\runtime\\engine\\classes\\gameframework\\gamemodebase.h",
+            "d:\\genshi\\ue_5.3\\engine\\source\\runtime\\engine\\classes\\engine\\serverstatreplicator.h",
+            "d:\\genshi\\ue_5.3\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\serverstatreplicator.generated.h",
+            "d:\\genshi\\ue_5.3\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\gamemodebase.generated.h",
+            "c:\\users\\i512600kf-rtx3060\\documents\\github\\vholovan\\test26\\intermediate\\build\\win64\\unrealeditor\\inc\\test26\\uht\\test26gamemode.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
